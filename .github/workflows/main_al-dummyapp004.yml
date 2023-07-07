@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'al-dummyapp004'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1566CBD2772C4079908CDF2828A90368 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_887A30F7933A48698A0501CB72F1CB94 }}
           package: '*.jar'
